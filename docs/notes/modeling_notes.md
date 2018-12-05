@@ -129,6 +129,7 @@ _Note that a lot of the complexity of this model will depend on whether the core
   + MEM generally assumes 2:1 AGB to BGB
   + This should be highly variable site to site, and species to species
   + We may need some targeted lit review.
+  @article{hayes2017contrasting
 * Root mass shape
   + MEM assumes exponential relationship between depth and root mass
   + Not only shape available. I’ve also seen normal distributions.
